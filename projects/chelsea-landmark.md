@@ -1,12 +1,10 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Banana
+title: Curiculum Vitae
 category: Identity
-thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
-categories:
-- photography
-- pink
+thumbnail: ''
+categories: []
 project_bg_color: ''
 project_fg_color: ''
 
